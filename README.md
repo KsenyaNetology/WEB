@@ -1,1 +1,0 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/pdbi43awrp63uov5?svg=true)](https://ci.appveyor.com/project/KsenyaNetology/web-ctsv6)
